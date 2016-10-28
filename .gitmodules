@@ -1,0 +1,93 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/easy-webpack/core.git
+[submodule "config-aurelia"]
+	path = config-aurelia
+	url = https://github.com/easy-webpack/assign.git
+[submodule "assign"]
+	path = assign
+	url = https://github.com/easy-webpack/assign.git
+[submodule "config-babel"]
+	path = config-babel
+	url = https://github.com/easy-webpack/config-babel.git
+[submodule "config-common-chunks-simple"]
+	path = config-common-chunks-simple
+	url = https://github.com/easy-webpack/config-common-chunks-simple.git
+[submodule "config-copy-files"]
+	path = config-copy-files
+	url = https://github.com/easy-webpack/config-copy-files.git
+[submodule "config-css"]
+	path = config-css
+	url = https://github.com/easy-webpack/config-css.git
+[submodule "config-electron"]
+	path = config-electron
+	url = https://github.com/easy-webpack/config-electron.git
+[submodule "config-electron-main"]
+	path = config-electron-main
+	url = https://github.com/easy-webpack/config-electron-main.git
+[submodule "config-electron-renderer"]
+	path = config-electron-renderer
+	url = https://github.com/easy-webpack/config-electron-renderer.git
+[submodule "config-env-development"]
+	path = config-env-development
+	url = https://github.com/easy-webpack/config-env-development.git
+[submodule "config-env-production"]
+	path = config-env-production
+	url = https://github.com/easy-webpack/config-env-production.git
+[submodule "config-eslint"]
+	path = config-eslint
+	url = https://github.com/easy-webpack/config-eslint.git
+[submodule "config-external-source-maps"]
+	path = config-external-source-maps
+	url = https://github.com/easy-webpack/config-external-source-maps.git
+[submodule "config-fonts-and-images"]
+	path = config-fonts-and-images
+	url = https://github.com/easy-webpack/config-fonts-and-images.git
+[submodule "config-generate-index-html"]
+	path = config-generate-index-html
+	url = https://github.com/easy-webpack/config-generate-index-html.git
+[submodule "config-global-bluebird"]
+	path = config-global-bluebird
+	url = https://github.com/easy-webpack/config-global-bluebird.git
+[submodule "config-global-jquery"]
+	path = config-global-jquery
+	url = https://github.com/easy-webpack/config-global-jquery.git
+[submodule "config-global-regenerator"]
+	path = config-global-regenerator
+	url = https://github.com/easy-webpack/config-global-regenerator.git
+[submodule "config-html"]
+	path = config-html
+	url = https://github.com/easy-webpack/config-html.git
+[submodule "config-json"]
+	path = config-json
+	url = https://github.com/easy-webpack/config-json.git
+[submodule "config-less"]
+	path = config-less
+	url = https://github.com/easy-webpack/config-less.git
+[submodule "config-offline"]
+	path = config-offline
+	url = https://github.com/easy-webpack/config-offline.git
+[submodule "config-output-library"]
+	path = config-output-library
+	url = https://github.com/easy-webpack/config-output-library.git
+[submodule "config-pug"]
+	path = config-pug
+	url = https://github.com/easy-webpack/config-pug.git
+[submodule "config-sass"]
+	path = config-sass
+	url = https://github.com/easy-webpack/config-sass.git
+[submodule "config-source-map-support"]
+	path = config-source-map-support
+	url = https://github.com/easy-webpack/config-source-map-support.git
+[submodule "config-test-coverage-istanbul"]
+	path = config-test-coverage-istanbul
+	url = https://github.com/easy-webpack/config-test-coverage-istanbul.git
+[submodule "config-tslint"]
+	path = config-tslint
+	url = https://github.com/easy-webpack/config-tslint.git
+[submodule "config-typescript"]
+	path = config-typescript
+	url = https://github.com/easy-webpack/config-typescript.git
+[submodule "config-uglify"]
+	path = config-uglify
+	url = https://github.com/easy-webpack/config-uglify.git
