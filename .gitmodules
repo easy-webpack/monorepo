@@ -3,7 +3,7 @@
 	url = https://github.com/easy-webpack/core.git
 [submodule "config-aurelia"]
 	path = config-aurelia
-	url = https://github.com/easy-webpack/assign.git
+	url = https://github.com/easy-webpack/config-aurelia.git
 [submodule "assign"]
 	path = assign
 	url = https://github.com/easy-webpack/assign.git
